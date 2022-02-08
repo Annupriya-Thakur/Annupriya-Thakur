@@ -52,7 +52,6 @@ Hi, I'm [Annupriya]() 👋
 ![Hive](http://img.shields.io/badge/-Hive-white?style=flat-square&logo=apachehive)
 ![Spark](http://img.shields.io/badge/-Spark-white?style=flat-square&logo=apachespark)
 
-![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
 
 ### 💬 Contact Me
 
