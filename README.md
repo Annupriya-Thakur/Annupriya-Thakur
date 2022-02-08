@@ -23,7 +23,6 @@ Hi, I'm [Annupriya]() 👋
 </p>
 
 ![focus](https://img.shields.io/badge/Focus-Artificial%20Intelligence-black)
-![visitors](https://visitor-badge.herokuapp.com/badge?page_id=Annupriya-Thakur.github.profile)
 <br />
 
 ### 🛠 Tech Stack
