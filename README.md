@@ -54,5 +54,5 @@ Hi, I'm [Annupriya]() 👋
 
 ### 💬 Contact Me
 
-[![Gmail](https://img.shields.io/badge/-annupriya.official1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:annupriya.official1@gmail.com)](mailto:annupriya.official1@gmail.com)
+[![Gmail](https://img.shields.io/badge/-annupriya.official1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:annupriya.official1@gmail.com)](annupriya.official1@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-AnnupriyaThakur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annupriya-thakur-aa9b2a1b4/)](https://www.linkedin.com/in/annupriya-thakur-aa9b2a1b4/)
