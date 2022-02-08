@@ -18,8 +18,7 @@ Hi, I'm [Annupriya]() 👋
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Annupriya-Thakur&show_icons=true&count_private=true&theme=monokai"/>
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Annupriya-Thakur&layout=compact&langs_count=8&theme=monokai"/>
-   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Annupriya-Thakur&theme=monokai" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Annupriya-Thakur&theme=monokai" />
 </a>
 </p>
 
